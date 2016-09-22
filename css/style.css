@@ -1,0 +1,283 @@
+*{
+	margin:0px;
+	padding:0px;
+	font-family:'Ubuntu', sans-serif;; 
+}
+
+
+
+.logo{
+    width: 300px;
+    height: 60px;
+    padding: 10px;
+
+}
+
+.icon1{
+   
+    width: 30px;
+    height: 30px;
+    float:right;
+    padding: 20px;
+    }
+    
+  .icon1:hover{
+	background-color: rgba(255,255,255,.15);
+	-webkit-border-radius: 30%;
+	-webkit-box-shadow: 0px 0px 0px 30px rgba(255,255,255,0);
+	-webkit-transition:box-shadow .4s;
+}
+    
+ 
+
+.cabecera {
+  background-position:center;
+  height: 80px;
+  background-image: url(img/Sin%20t%C3%ADtulo.png)    
+}
+
+
+
+div#titulo{
+	width:100%;
+	margin-top:30px;
+}
+
+p#header{
+    margin: 10px;
+	text-align: center;
+	font-size: 2.5em;
+	color:#9a9a9a;
+}
+
+p#subheader{
+	text-align: center;
+	color:#cecece;
+	margin-top:20px;
+	font-size: 1.1em;
+}
+
+header{
+	margin:20px auto;
+	width:1000px;
+	height:60px;
+	background-color: red;
+}
+
+div.contenedor{
+	width: 200px;
+	height: 60px;
+	float:left;
+	-webkit-transition: height .4s;
+}
+
+div#uno{
+	background-color: darkgray;
+}
+
+div#dos{
+	background-color: darkgray;
+}
+
+div#tres{
+	background-color: darkgray;
+}
+
+div#cuatro{
+	background-color: darkgray;
+}
+
+div#cinco{
+	background-color: darkgray;
+}
+
+
+
+img.icon{
+	display: block;
+	margin:2px auto;
+	background-color: rgba(255,255,255,.15);
+	width:15px;
+	padding:10px;
+	-webkit-border-radius: 50%;
+	-webkit-box-shadow: 0px 0px 0px 30px rgba(255,255,255,0);
+	-webkit-transition:box-shadow .4s;
+}
+
+p.texto{
+	font-size: 0.8em;
+	color:white;
+	text-align:center;
+	padding-top:auto;
+	opacity: .6;
+	-webkit-transition: padding-top .4s;
+}
+
+div.contenedor:hover{
+	height:70px;
+}
+
+div.contenedor:hover p.texto{
+	padding-top: 15px;
+	opacity: 1;
+}
+
+div.contenedor:hover img.icon{
+	-webkit-box-shadow:0px 0px 0px 0px rgba(255,255,255,.6);
+}
+
+
+body{
+    margin-top: auto
+    background: #f2f2f2;
+}
+   
+
+#slidestext{
+    margin: 0px;
+    text-align: center;
+	font-size: 2.0em;
+	color:#9a9a9a;
+    
+}
+
+.main{
+    
+    width: 80%;
+    height: 70%;
+    margin:auto;   
+}
+
+.slides{
+    width: 100%;
+    margin-top:auto;
+    
+    
+}
+
+.slides img {
+        width: 100%;
+}
+
+.slidesjs-pagination {
+    
+    background: #424242;
+    list-style: none;
+    overflow: hidden;
+    
+}
+
+.slidesjs-pagination li {
+    float: left;
+}
+
+.slidesjs-pagination li a {
+    
+    display: block;
+    padding: 10px 20px;
+    color: #fff;
+    text-decoration: none;
+}
+.slides .active {
+    background: #000;
+}
+
+.slidesjs-pagination li a:hover{
+    background: #000;
+}
+
+.slidesjs-navigation {
+    background: #000;
+    color: #fff;
+    text-decoration: none;
+    display:inline-block;
+    padding: 10px 20px;
+    float: right;
+}
+
+
+
+
+.pie{
+    
+    width: 100%;
+    bottom: 0px;
+    position:relative;
+    text-align:center;
+    margin-top:20px;
+    height: 80px;
+    background-image: url(img/pie.png)
+   
+    
+}
+
+.pietext1{
+     
+    text-align: center;
+	color:#cecece;
+	font-size: 1.1em;
+   
+        
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
